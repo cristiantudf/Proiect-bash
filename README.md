@@ -26,4 +26,4 @@ chmod +x script.sh
 ./script.sh
 ```
 
-Then follow the interactive menu.
+
